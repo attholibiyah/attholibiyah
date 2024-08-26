@@ -1,0 +1,15 @@
+/* CSS yang perlu ditambahkan atau diubah */
+
+.contact-item {
+    margin-bottom: 20px;
+}
+
+.social-icon {
+    display: block;
+    margin-bottom: 10px; /* Spasi antara ikon */
+}
+
+.social-icon img {
+    width: 30px; /* Ukuran ikon sosial media */
+    height: auto;
+}
